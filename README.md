@@ -1,1 +1,2 @@
 # Eneye String Generator
+[![Latest Stable Version](https://poser.pugx.org/eneye/generate-string/v)](//packagist.org/packages/eneye/generate-string) [![Total Downloads](https://poser.pugx.org/eneye/generate-string/downloads)](//packagist.org/packages/eneye/generate-string) [![Latest Unstable Version](https://poser.pugx.org/eneye/generate-string/v/unstable)](//packagist.org/packages/eneye/generate-string) [![License](https://poser.pugx.org/eneye/generate-string/license)](//packagist.org/packages/eneye/generate-string)
