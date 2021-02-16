@@ -27,6 +27,7 @@ $output = $generate->generateString($length, $characters );
 ```
 <!-- display the social media buttons in your README -->
 
+## Contact Creator
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
