@@ -23,8 +23,18 @@ $generate = new EneyeGenerateString\Generate;
 $length = 5;
 $characters = "eneye12345";
 $output = $generate->generateString($length, $characters );
-// This $output will be unique  generate strings with 5 characters
+// This $output will be unique generate strings with 5 characters
 ```
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 
 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+
+[1]: https://www.twitter.com/TijaniEneye
+[2]: https://www.facebook.com/usman.tijani2
 
