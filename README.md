@@ -19,7 +19,7 @@ use EneyeGenerateString\Generate;
 
 require_once __DIR__ . '/vendor/autoload.php'; 
 
-$generate = new EneyeGenerateString\Generate;
+$generate = new Generate();
 $length = 5;
 $characters = "eneye12345";
 $output = $generate->generateString($length, $characters );
